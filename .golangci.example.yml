@@ -18,5 +18,3 @@ linters:
   disable-all: true
   enable:
     - example
-    # Typecheck is how golangci-lint reports compile errors, so should always be enabled.
-    - typecheck
